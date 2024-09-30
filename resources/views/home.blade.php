@@ -1,8 +1,6 @@
 @extends('layout')
 
 @section('content')
-
-
 <div class=" flex-1  flex ">
     <div class="  flex-1 flex  h-[600px] bg-contain bg-fixed bg-left px-[10%] bg-no-repeat relative" style="background-image: url('about-page-3.jpg');">
     </div>
